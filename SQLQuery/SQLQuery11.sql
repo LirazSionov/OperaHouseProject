@@ -1,0 +1,1 @@
+select CodeInstance,Name,Composer,Writer from InstanceType
